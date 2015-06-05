@@ -25,7 +25,7 @@ _Example 1:_
 
 **output**
 
-		<div data-bind-content="name">Steven</div>
+		<div data-bind-content="name">Steven</a>
 
 _Example 2:_
 
@@ -36,4 +36,4 @@ _Example 2:_
 
 **output**
 
-		<a data-bind-content="name" data-bind-href="link" data-bind-class="name" href="http://telerikacademy.com" class="Elena">Elena</div>
+		<a data-bind-content="name" data-bind-href="link" data-bind-class="name" href="http://telerikacademy.com" class="Elena">Elena</a>
