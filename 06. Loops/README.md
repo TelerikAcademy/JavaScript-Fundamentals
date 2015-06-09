@@ -12,3 +12,6 @@ Loops
 
 ### Problem 4. Lexicographically smallest
 *	Write a script that finds the lexicographically smallest and largest property in `document`, `window` and `navigator` objects.
+
+### Problem 5.* Primes in range
+* Write a script that prints all the prime numbers from `1` to `N`.
