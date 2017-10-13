@@ -20,11 +20,11 @@ Since Skoki is jumpy, but not that bright and he can use only small numbers, aft
 
 ## Examples
 
-- _Exampel 1:_
+- _Example 1:_
 
 <img src="./imgs/example-1.png">
 
-- _Exampel 1:_
+- _Example 1:_
 
 <img src="./imgs/example-2.png">
 
