@@ -25,7 +25,7 @@ Course Program, Examination
 
 
 
-### [03. Data types and Variables](/Topics/03. Data types and Variables)
+### [03. Data types and Variables.](/Topics/03. Data types and Variables)
 
 
 
