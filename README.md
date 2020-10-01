@@ -2,6 +2,8 @@
 
 Repository for the course [JavaScript Fundamentals](https://telerikacademy.com/Courses/Courses/Details/339) at [Telerik Academy](https://telerikacademy.com)
 
+This is the best course you can found on Javascript Fundamentals.
+
 
 ## Course program
 
