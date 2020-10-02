@@ -1,4 +1,4 @@
-# JavaScript-Fundamentals
+# Modern JavaScript Fundamentals
 
 Repository for the course [JavaScript Fundamentals](https://telerikacademy.com/Courses/Courses/Details/339) at [Telerik Academy](https://telerikacademy.com)
 
